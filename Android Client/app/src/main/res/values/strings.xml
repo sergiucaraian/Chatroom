@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatClient</string>
+    <string name="title">Chatroom Client</string>
+    <string name="enter_name">Enter name</string>
+    <string name="btn_join">Join</string>
+    <string name="btn_send">Send</string>
+    <string name="title_activity_chat">ChatActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
