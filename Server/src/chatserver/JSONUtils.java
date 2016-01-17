@@ -9,6 +9,7 @@ public class JSONUtils {
             FLAG_MESSAGE = "message",
             FLAG_EXIT = "exit";
     
+
     // Get session information
     public static String getConfirmation() {
         String json = null;
